@@ -1,0 +1,6 @@
+rdflib
+transformers
+sentence-transformers==5.2.0
+openai
+loguru
+pyarrow
